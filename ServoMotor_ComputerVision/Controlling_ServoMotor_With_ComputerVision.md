@@ -1,4 +1,4 @@
-# TOOLS: PyTorch, Ultralytics, YOLO 
+# TOOLS: Python, Ultralytics, YOLO 
 # Mon Computer Vision Servo Motors
 
 ## 1. Basic Setup -- Ultralytics and YOLO 
