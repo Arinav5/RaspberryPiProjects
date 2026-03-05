@@ -1,4 +1,4 @@
-TOOLS: WhipserModel
+TOOLS: WhipserModel, rapidfuzz
 ## Speech Recognition With OpenAI's Whisper
 Hardware Components: Raspberry Pi, adafruit mini usb microphone
 
