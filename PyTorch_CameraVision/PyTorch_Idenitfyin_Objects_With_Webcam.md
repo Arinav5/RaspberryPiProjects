@@ -1,7 +1,5 @@
+# TOOLS: PyTorch, Flask
 # Computer Vision -- Identifying Objects on Campera with PyTorch 
-
-Lab Date: Mar 4
-Due Date: 2:00pm Mar 16
 
 ## Image Classification Workflow - Fashion MNIST
 
