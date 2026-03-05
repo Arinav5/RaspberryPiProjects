@@ -1,7 +1,6 @@
-# Week 6 Wed Web Weather Monitor
-Lab Date: Feb 18
-Dude Date: 2:00pm Feb 23
+#Languages: Flask, HTML, CSS
 
+# Web Weather Monitor
 Hardware Components: Arduino Uno, Raspberry Pi, breadboard, wires, MPU 6050, BH1750, DHT11, 
 
 Wiring Connections: Connected 5V power supply to motor through the breadboard, ground is connected to the breadboard which is connected to the arduino. MPU 6050, BH1750 both connected through sda and scl to the arduino. DHT11 is connected via digital pin 2. 
