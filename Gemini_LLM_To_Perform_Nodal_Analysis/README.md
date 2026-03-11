@@ -7,7 +7,7 @@ Software components: Thonny, Gemini 2.5 flash
 ## Text-based Input
 ```Python
 google.generativeai as genai
-genai.configure(api_key="AIzaSyAvGutRwpdlx-3tHP84D3qMdLfSvAK_XdQ")
+genai.configure(api_key="api-key")
  
 model = genai.GenerativeModel("gemini-2.5-flash")
 response = model.generate_content("""You are an ELE 231 circuit tutor. You are given an LTspice schematic IMAGE.
